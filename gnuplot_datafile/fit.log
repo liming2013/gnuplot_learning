@@ -1,0 +1,94 @@
+
+
+*******************************************************************************
+Tue Apr 12 18:58:42 2016
+
+
+FIT:    data read from 'probability.dat' using 1:2
+        format = x:z
+        x range restricted to [8.00000 : 16.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters and initial values from file: fit.par
+
+
+
+*******************************************************************************
+Tue Apr 12 18:59:17 2016
+
+
+FIT:    data read from 'probability.dat' using 1:2
+        format = x:z
+        x range restricted to [8.00000 : 16.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=50*(1+erf(a*(x−b)))
+fitted parameters and initial values from file: fit.par
+
+
+
+*******************************************************************************
+Tue Apr 12 19:00:36 2016
+
+
+FIT:    data read from 'probability.dat' using 1:2
+        format = x:z
+        x range restricted to [8.00000 : 16.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=50*(1+erf(a*(x−b)))
+fitted parameters and initial values from file: fit.par
+
+
+
+*******************************************************************************
+Tue Apr 12 19:06:52 2016
+
+
+FIT:    data read from 'probability.dat' using 1:2
+        format = x:z
+        x range restricted to [8.00000 : 16.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=50*(1+erf(a*(x−b)))
+fitted parameters and initial values from file: fit.par
+
+
+
+*******************************************************************************
+Tue Apr 12 19:07:50 2016
+
+
+FIT:    data read from 'probability.dat' using 1:2
+        format = x:z
+        x range restricted to [8.00000 : 16.0000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=50*(1+erf(a*(x−b)))
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Tue Apr 12 19:08:12 2016
+
+
+FIT:    data read from 'probability.dat' using 1:2
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=50*(1+erf(a*(x−b)))
+fitted parameters initialized with current variable values
+

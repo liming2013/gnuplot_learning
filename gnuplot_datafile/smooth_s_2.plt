@@ -1,0 +1,1 @@
+plot 'precipitation.dat' u 1:2:(1.0) smooth acsplines lw 2 t 'weight = 1.0','' u 1:2:(6.0) smooth acsplines lw 2 t 'weight = 6.0','' u 1:2:(60.0) smooth acsplines lw 2 t 'weight = 60.0','' u 1:2 w points pt 7 t 'data points'
